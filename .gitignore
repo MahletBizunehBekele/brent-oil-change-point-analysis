@@ -1,0 +1,15 @@
+venv/
+.env
+__pycache__/
+.ipynb_checkpoints/
+
+*.pyc
+*.pyo
+
+data/raw/
+
+*.csv~
+
+.DS_Store
+
+data/brent_oil_prices.csv
