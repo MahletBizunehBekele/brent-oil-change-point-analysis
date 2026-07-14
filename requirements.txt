@@ -7,3 +7,5 @@ statsmodels
 pymc
 arviz
 jupyter
+pymc 
+arviz
